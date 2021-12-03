@@ -1,0 +1,77 @@
+.heading {
+    width: 50%;
+    margin-top: 15px auto;
+    margin: 15px auto;
+    text-align: center;
+    color: #6b8e23;
+}
+
+.task_input {
+    width: 73%;
+    height: 15px;
+    padding: 10px;
+    border: 2px solid #6b8e23;
+    border-radius: 5px;
+}
+
+.add_btn {
+    height: 39px;
+    background: #ffffff;
+    color: #6b8e23;
+    padding: 5px 20px;
+    border: 2px solid #6b8e23;
+    border-radius: 5px;
+}
+
+.Paper {
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+table {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1px solid #cbcbcb;
+}
+
+tr:hover {
+    background: #e9e9e9;
+}
+
+th {
+    font-size: 19px;
+    color: #6b8e23;
+}
+
+th, td {
+    height: 30px;
+    padding: 2px;
+}
+
+.task_id {
+    text-align: center;
+}
+
+.task {
+    text-align: center;
+}
+
+.delete {
+    text-align: center;
+}
+
+.delete button{
+    color: white;
+    background: #a52a2a;
+    padding: 1px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+}
